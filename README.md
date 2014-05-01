@@ -1,6 +1,5 @@
 ##7 Segment Button Counter
 
-2/2/2012
 This sketch displays an initialization animation and 
 starts a decimal counter that counts down when a button 
 is pressed. Hardware is one shift register, a button, 
